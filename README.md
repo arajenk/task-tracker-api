@@ -1,5 +1,4 @@
 # Task Tracker API  
-**Spring Boot & PostgreSQL**
 
 ## 📌 Overview
 This project is a **back-end RESTful API** for managing tasks. It was built as a learning project to migrate **command-line application logic** into a more **robust, enterprise-style system**, with a focus on:
