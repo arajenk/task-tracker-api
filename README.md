@@ -1,4 +1,4 @@
-# RESTful Task Tracker API  
+# Task Tracker API  
 **Spring Boot & PostgreSQL**
 
 ## 📌 Overview
